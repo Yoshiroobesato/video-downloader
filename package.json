@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "progress": "^2.0.3",
+    "sanitize-filename": "^1.6.3"
+  },
+  "name": "home",
+  "version": "1.0.0",
+  "main": "responder.js",
+  "devDependencies": {},
+  "scripts": {
+  "start": "node responder.js"
+}
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
