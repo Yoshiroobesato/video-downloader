@@ -10,6 +10,8 @@ Clona el repositorio y navega al directorio del proyecto:
 git clone https://github.com/Yoshiroobesato/video-downloader.git
 cd video-downloader
 
+## Instalación
+
 luego ejecutar el siguiente comando
 
 ```bash
